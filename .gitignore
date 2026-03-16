@@ -3,3 +3,4 @@
 *.pt
 slides_notes/
 w7_finetuning/model_output/
+w8_PEFT_finetuning/model_output/
